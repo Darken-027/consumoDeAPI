@@ -22,7 +22,7 @@ getCharacter(data => {
             `);
 
             const main = document.querySelector("main");
-            main.append();
+            main.append(article);
 
     });
 });
